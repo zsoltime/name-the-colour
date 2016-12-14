@@ -1,0 +1,16 @@
+extends layout
+block title
+  title (11) Name the Colour
+block content
+  h1 Day 11 - Name the Colour
+  .description Click on the colour of the word, not the text of the word itself.
+  .game#game
+  .status
+    .score Score: #[span#score 0]
+    .timer
+      .wrap
+        #timer
+    .level Level: #[span#level 1]
+  .modal#modal.active
+    p.results
+    button#start Start
