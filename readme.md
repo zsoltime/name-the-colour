@@ -1,5 +1,7 @@
 # Day 11 of My 3 Weeks Game Challenge
 
+Bummer, this game hasn't been finished yet... Why don't you check out some of the other ones from my [3 weeks game challenge](https://github.com/zsoltime/game-challenge)?
+
 Name the colour is a great game or more like a brain test that uses colours. It's much harder than it seems, but keep trying.
 
 ## User Stories
